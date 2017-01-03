@@ -1,0 +1,14 @@
+/**/ _ate.cbs.rcb_hudm0({
+   "og_object": {
+      "id": "767995009981074",
+      "description": "Given a 2d grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.\r\n\r\nExample 1:\r\n11110110101100000000\r\nAnswer: 1\r\nExample 2:\r\n11000110000010000011\r\nAnswer: 3\r\n\r\nCredits:Special thanks to \u0040mithmatt for adding this problem and creating all test cases.",
+      "title": "Number of Islands | LeetCode OJ",
+      "type": "website",
+      "updated_time": "2016-12-21T23:43:26+0000"
+   },
+   "share": {
+      "comment_count": 0,
+      "share_count": 21
+   },
+   "id": "https://leetcode.com/problems/number-of-islands/"
+});
